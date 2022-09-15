@@ -10,14 +10,15 @@
 
 <h3 align="center">Me Learning GO Lang</h3>
 
-Building this repo to document & archive my progress learning GO. I have two primary goals for learning GO: 
-    * Develop an understanding of programming languages outside of the traditional data science languages - Python & R
-    * Help to improve performance of solutions that I've developed in Python. 
+Building this repo to document & archive my progress learning GO. I have two primary goals for learning GO:
+* Develop an understanding of programming languages outside of the traditional data science languages - Python & R <br>
+* Help to improve performance of solutions that I've developed in Python. 
 
 I'll contiue to update this ReadME for as long as I continue learning with my progression through learning. As I better understand how GO scripts are developed into packages, I'll clean up the repository structure. For now, I'll just list the order that I develop scripts below. 
-    1. main.go
-    2. load_csv.go
-    3. loop_example.go
+1. main.go 
+2. load_csv.go
+3. loop_example.go
+
 
 I hope that this repo helps you in your journey to learning GO!
 
@@ -30,19 +31,14 @@ I hope that this repo helps you in your journey to learning GO!
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#built-with">Built With</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#configuration">Configuration</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -73,10 +69,9 @@ I used [this](https://www.digitalocean.com/community/tutorials/how-to-use-go-mod
 ## Roadmap
 
 Below is a running list of things I plan to learn next:
-
-- Update array values
-- Load csv to array
-- Reference relative array values
+* Update array values
+* Load csv to array
+* Reference relative array values
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
