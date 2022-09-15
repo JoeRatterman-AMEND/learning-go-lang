@@ -7,19 +7,23 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Me Learning GO Lang</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+
+    Building this repo to document & archive my progress learning GO. I have two primary goals for learning GO: 
+    * Develop an understanding of programming languages outside of the traditional data science languages - Python & R
+    * Help to improve performance of solutions that I've developed in Python. 
+
+    I'll contiue to update this ReadME for as long as I continue learning with my progression through learning. As I better understand how GO scripts are developed into packages, I'll clean up the repository structure. For now, I'll just list the order that I develop scripts below. 
+    1. main.go
+    2. load_csv.go
+    3. loop_example.go
+
+    I hope that this repo helps you in your journey to learning GO!
+
+    Disclaimer - all of these scripts will be developed with numerous different websites namely stack overflow & geeksforgeeks. Because I expect to use various resources for each script, I won't be documenting each site that I use to create an example. 
+
   </p>
 </div>
 
@@ -51,118 +55,45 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+I used [this](https://www.digitalocean.com/community/tutorials/how-to-use-go-modules) tutorial to create my first .go script. 
 
-### Prerequisites
+### Built With
 
-This is an example of how to list things you need to use the software and how to install them.
+* [GO](https://go.dev/ref/mod)
 
 ### Installation
 
 1. Clone this repo
    ```sh
-   git clone gh repo clone github_username/repo_name
+   git clone gh repo clone [github_username/repo_name](https://github.com/JoeRatterman-AMEND/learning-go-lang)
    ```
-2. Install required packages using pip
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Enter your values in `config.yaml`, see below for more information on [config setup](#configuration).
-4. Execute the [core file] file
-    ```sh
-    python [core file]
-    ```
- 5. Read the output from the file created
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-### Configuration
-
-If your codebase uses the config.yaml file use this space to illustrate what fields need to be present and what data they need to be populated with. This is also a great location to have an example config input:
-
-Example of config.yaml below:
-```yaml
-example-parameter: true
-example-list:
-  item-1: 1
-  item-2: "two"
-  item-3: 'image/url.com'
-example-empty:
-  ```
-  
-  <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+Below is a running list of things I plan to learn next:
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+- Update array values
+- Load csv to array
+- Reference relative array values
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+Joe Ratterman - ratterman@amendllc.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-url]: https://github.com/github_username/repo_name/issues
-[product-screenshot]: images/screenshot.png
+## References
 [company-logo]: images/logo.png
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
