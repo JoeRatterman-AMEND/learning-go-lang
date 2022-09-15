@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/JoeRatterman-AMEND/learning-go-lang">
+    <img src="support-docs/golang.png" alt="Logo" width="80" height="80">
   </a>
 </div>
 
@@ -21,7 +21,7 @@ I'll contiue to update this ReadME for as long as I continue learning with my pr
 
 I hope that this repo helps you in your journey to learning GO!
 
-Disclaimer - all of these scripts will be developed with numerous different websites namely stack overflow & geeksforgeeks. Because I expect to use various resources for each script, I won't be documenting each site that I use to create an example. 
+*Disclaimer* - all of these scripts will be developed with numerous different websites namely stack overflow & geeksforgeeks. Because I expect to use various resources for each script, I won't be documenting each site that I use to create an example. 
 
 
 <!-- TABLE OF CONTENTS -->
@@ -63,7 +63,7 @@ I used [this](https://www.digitalocean.com/community/tutorials/how-to-use-go-mod
 
 1. Clone this repo
    ```sh
-   git clone gh repo clone [github_username/repo_name](https://github.com/JoeRatterman-AMEND/learning-go-lang)
+   git clone gh repo clone https://github.com/JoeRatterman-AMEND/learning-go-lang
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -88,7 +88,8 @@ Joe Ratterman - ratterman@amendllc.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 ## References
-[company-logo]: images/logo.png
+(golang-logoo)[support-docs/golang.png]
+(FreeCodeCamp)[https://www.freecodecamp.org/news/what-is-go-programming-language/]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
