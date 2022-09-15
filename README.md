@@ -9,7 +9,6 @@
 
 <h3 align="center">Me Learning GO Lang</h3>
 
-  <p align="center">
 
     Building this repo to document & archive my progress learning GO. I have two primary goals for learning GO: 
     * Develop an understanding of programming languages outside of the traditional data science languages - Python & R
@@ -24,7 +23,7 @@
 
     Disclaimer - all of these scripts will be developed with numerous different websites namely stack overflow & geeksforgeeks. Because I expect to use various resources for each script, I won't be documenting each site that I use to create an example. 
 
-  </p>
+
 </div>
 
 
