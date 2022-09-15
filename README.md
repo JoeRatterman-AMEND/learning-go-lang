@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JoeRatterman-AMEND/learning-go-lang">
-    <img src="support-docs/golang.png" alt="Logo" width="80" height="80">
+    <img src="support-docs/golang.png" alt="Logo">
   </a>
 </div>
 
@@ -88,8 +88,8 @@ Joe Ratterman - ratterman@amendllc.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 ## References
-(golang-logoo)[support-docs/golang.png]
-(FreeCodeCamp)[https://www.freecodecamp.org/news/what-is-go-programming-language/]
+[golang-logo](support-docs/golang.png)
+[FreeCodeCamp](https://www.freecodecamp.org/news/what-is-go-programming-language/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
