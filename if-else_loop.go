@@ -17,18 +17,30 @@ func main() {
 	fmt.Println("Below are the elements in my array:")
 	fmt.Println(arr)
 
-	// Accessing each row of the array
+	// Loop to view previous rows' data
 	fmt.Println("Rows of my array")
 	for p := 0; p < len(arr); p++ {
-		fmt.Println(arr[p])
+
+		if p == 0 {
+			fmt.Println("1st Row!")
+		} else {
+			fmt.Println("The previous row values are below: ")
+			fmt.Println(arr[p-1])
+		}
+
 	}
 
-	// Accessing each value of the array
-	fmt.Println("Elements of my array")
+	// Loop to view next rows' data
+	fmt.Println("Rows of my array")
 	for p := 0; p < len(arr); p++ {
-		for q := 0; q < len(arr[0]); q++ {
-			fmt.Println(arr[p][q])
+
+		if p == len(arr)-1 {
+			fmt.Println("Last Row!")
+		} else {
+			fmt.Println("The next row values are below: ")
+			fmt.Println(arr[p+1])
 		}
+
 	}
 
 }
