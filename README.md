@@ -18,6 +18,9 @@ I'll contiue to update this ReadME for as long as I continue learning with my pr
 1. main.go 
 2. load_csv.go
 3. loop_example.go
+4. if-else_loop.go
+5. declare_variables.go
+5. define_sum_function.go
 
 
 I hope that this repo helps you in your journey to learning GO!
