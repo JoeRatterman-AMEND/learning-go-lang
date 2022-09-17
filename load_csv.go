@@ -1,10 +1,13 @@
 package main
 
 // Import required packages
-import "fmt"
-import "github.com/tobgu/qframe"
-import "log"
-import "os"
+import (
+	"fmt"
+	"log"
+	"os"
+
+	"github.com/tobgu/qframe"
+)
 
 // Define main function
 func main() {
